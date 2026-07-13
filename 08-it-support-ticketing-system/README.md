@@ -411,6 +411,6 @@ IT-Support-Ticketing-System/
 
 **Rithika U** — Cybersecurity Engineer | RIVI Enterprises
 - GitHub: [@rithika-ujjalsingh](https://github.com/rithika-ujjalsingh)
-- LinkedIn: [linkedin.com/in/rithika-u](https://linkedin.com/in/rithika-u)
+- LinkedIn: [linkedin.com/in/rithikaujjalsingh](https://www.linkedin.com/in/rithikaujjalsingh)
 
-*Built for IT Support learners | RIVI Enterprises 2025*
+*Built for IT Support learners | RITHIKA UJJALSINGH 2026*
