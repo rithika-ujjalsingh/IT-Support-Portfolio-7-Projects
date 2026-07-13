@@ -1,0 +1,17 @@
+{
+  "log_sources": {
+    "windows_server": "192.168.100.10",
+    "windows_client": "192.168.100.102",
+    "kali_linux": "192.168.100.20"
+  },
+  "alert_thresholds": {
+    "failed_logins": 5,
+    "lockouts_per_hour": 3,
+    "new_admin_accounts": 1
+  },
+  "business_hours": {
+    "start": "08:00",
+    "end": "19:00"
+  },
+  "domain": "rivi.local"
+}

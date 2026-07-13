@@ -1,0 +1,23 @@
+# RIVI SIEM Sample Log File — for lab exercises
+# Format: YYYY-MM-DD HH:MM:SS EventID=XXXX User=xxx IP=xxx Msg=xxx
+
+2025-07-01 09:00:00 EventID=4624 User=rithika.u IP=192.168.100.102 Msg=Successful logon
+2025-07-01 09:15:00 EventID=4624 User=john.doe IP=192.168.100.102 Msg=Successful logon
+2025-07-01 09:30:00 EventID=4624 User=jane.smith IP=192.168.100.102 Msg=Successful logon
+2025-07-01 09:45:00 EventID=4624 User=admin IP=192.168.100.102 Msg=Successful logon
+2025-07-01 09:45:00 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:45:45 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:46:30 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:47:15 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:48:00 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:48:45 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:49:00 EventID=4740 User=john.doe IP=192.168.100.20 Msg=Account locked out after 5 failures
+2025-07-01 09:49:30 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 09:50:15 EventID=4625 User=john.doe IP=192.168.100.20 Msg=Failed logon - wrong password
+2025-07-01 11:00:00 EventID=4634 User=jane.smith IP=192.168.100.102 Msg=Logoff
+2025-07-01 11:20:00 EventID=4634 User=rithika.u IP=192.168.100.102 Msg=Logoff
+2025-07-01 11:40:00 EventID=4634 User=john.doe IP=192.168.100.102 Msg=Logoff
+2025-07-01 12:00:00 EventID=4634 User=jane.smith IP=192.168.100.102 Msg=Logoff
+2025-07-01 12:20:00 EventID=4634 User=jane.smith IP=192.168.100.102 Msg=Logoff
+2025-07-01 23:15:00 EventID=4624 User=admin IP=192.168.100.10 Msg=Successful logon - after hours
+2025-07-01 23:30:00 EventID=4720 User=suspicious.temp IP=192.168.100.10 Msg=New user account created
