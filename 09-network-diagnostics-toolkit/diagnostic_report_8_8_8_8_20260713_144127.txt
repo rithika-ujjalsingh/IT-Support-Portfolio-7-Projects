@@ -1,0 +1,10 @@
+RIVI Network Diagnostic Report
+==================================================
+Target: 8.8.8.8
+Timestamp: 2026-07-13 14:41:27
+Platform: Windows
+
+Results Summary:
+  [PASS] DNS Lookup
+  [PASS] Ping Test
+  [PASS] Port Scan
