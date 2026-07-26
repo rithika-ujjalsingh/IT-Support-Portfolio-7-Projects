@@ -8,9 +8,9 @@ Every project follows the same structure: problem statement → step-by-step res
 
 | Machine | Role | IP Address |
 |---|---|---|
-| Windows Server 2019 | Domain Controller / DNS / DHCP | `192.168.100.10` |
-| Windows 11 Pro | Domain-Joined Client | `192.168.100.25` |
-| Kali Linux | Diagnostics / Security Testing Host | `192.168.100.102` |
+| Windows Server 2019 | Domain Controller / DNS / DHCP | `192.168.100.00` |
+| Windows 11 Pro | Domain-Joined Client | `192.168.100.00` |
+| Kali Linux | Diagnostics / Security Testing Host | `192.168.100.000` |
 
 **Domain:** `corp.local` | **Hypervisor:** VMware Workstation Pro
 
