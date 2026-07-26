@@ -1,10 +1,3 @@
-Puthu 6 projects ku (08–13) LinkedIn posts add pannitu, full updated file kudukaren — idha unga LINKEDIN_POSTS.md la copy-paste pannikonga.
-markdown# 📱 LinkedIn Post Templates — One Per Project
-
-Post these one at a time, spaced a few days apart, not all together — this keeps your profile showing consistent activity over weeks instead of one burst.
-
----
-
 ## Post 1 — Network Troubleshooting
 🌐 Diagnosed a simulated network outage across a 3-tier VM lab — and documented it the way I would on a real support ticket.
 Setup: Windows Server 2019 (DC) + Windows 11 client + Kali Linux, all on an isolated VMware network.
