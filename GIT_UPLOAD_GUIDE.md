@@ -1,7 +1,5 @@
 # 📤 Git Upload Guide — Step by Step (Tiny Steps Included)
 
-இந்த guide follow பண்ணுங்க — ஒவ்வொரு tiny step-உம் explain பண்ணியிருக்கேன். Kali Linux terminal-ல இருந்தோ, Windows-ல Git Bash-ல இருந்தோ run பண்ணலாம்.
-
 ---
 
 ## Part 1 — One-Time Setup (செய்யாட்டா முதல்ல செய்யுங்க)
