@@ -32,7 +32,8 @@ Below are resume-ready bullet points generated directly from the 13 portfolio pr
 ## Project Section Format (alternative to bullet-only resumes)
 
 If your resume has a dedicated **Projects** section, use this compact format:
-IT Support & Security Lab Portfolio | github.com/rithika-ujjalsingh | 13 projects
+
+IT Support & Security Lab Portfolio | github.com/rithika-ujjalsingh/IT-Support-Portfolio-Projects | 13 projects
 Self-built VMware lab (Windows Server 2019, Windows 11, Kali Linux) demonstrating
 network troubleshooting, Active Directory administration, GPO management, and
 security incident response — plus Python/PowerShell automation tools (ticketing
@@ -41,6 +42,7 @@ turn these manual workflows into repeatable tooling. Each project documented wit
 step-by-step methodology and screenshot evidence.
 
 ## Skills line for the top of your resume
+
 Technical Skills: Active Directory | Group Policy | DNS/DHCP | Windows Server 2019 |
 PowerShell | Python | Linux Administration (Kali) | Network Troubleshooting | SSH |
 Firewall Configuration | Incident Response | MITRE ATT&CK | SIEM/Log Analysis |
