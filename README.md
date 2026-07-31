@@ -25,18 +25,18 @@ Every project follows the same structure: problem statement → step-by-step res
 
 ## 📚 Table of Contents
 
-- [Lab Environment](#️-lab-environment-used-across-most-projects)
-- [Skills Demonstrated](#🛠-skills-demonstrated)
-- [Project Roadmap](#🗺-project-roadmap)
-- [Repository Structure](#🗂-repository-structure)
-- [Projects](#📁-projects)
-- [Technologies Used](#💻-technologies-used)
-- [Key Achievements](#🎯-key-achievements)
-- [Learning Outcomes](#📖-learning-outcomes)
-- [Future Enhancements](#🚀-future-enhancements)
-- [Links](#🔗-links)
-- [Support](#🤝-support)
-- [License](#📄-license)
+- [Lab Environment](#-lab-environment-used-across-most-projects)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Project Roadmap](#-project-roadmap)
+- [Repository Structure](#-repository-structure)
+- [Projects](#-projects)
+- [Technologies Used](#-technologies-used)
+- [Key Achievements](#-key-achievements)
+- [Learning Outcomes](#-learning-outcomes)
+- [Future Enhancements](#-future-enhancements)
+- [Links](#-links)
+- [Support](#-support)
+- [License](#-license)
 
 ---
 
